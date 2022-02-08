@@ -1,1 +1,3 @@
-# Web-b-o-tr-
+Đây là web báo chí do e thiết kế để cung cấp cho mọi người nhưng thông tin về thời sự, giải trí, giáo dục...
+Web sử dụng localhost để chạy 
+Dự liệu được lưu trữ ở php myadmin 
